@@ -1,223 +1,223 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sport Network HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/adrenalina.png" group-title="Latinos VIP (Exclusivos)",Adrenalina Sport Network HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sport Network HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/adrenalina.png" group-title="Latinos  (Exclusivos)",Adrenalina Sport Network HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302603
-#EXTINF:-1 tvg-id="" tvg-name="Amas HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Amas HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Amas HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Amas HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302604
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="AMC HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Latinos VIP (Exclusivos)",AMC HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="AMC HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Latinos  (Exclusivos)",AMC HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302605
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Animal Planet HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/animalp.png" group-title="Latinos VIP (Exclusivos)",Animal Planet HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Animal Planet HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/animalp.png" group-title="Latinos  (Exclusivos)",Animal Planet HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302606
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/internacionales/antena-3.png" group-title="Latinos VIP (Exclusivos)",Antena 3 HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 HD (MX )" tvg-logo="https://img.tvcl.xyz/internacionales/antena-3.png" group-title="Latinos  (Exclusivos)",Antena 3 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302607
-#EXTINF:-1 tvg-id="" tvg-name="A3 Series HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/internacionales/a3.png" group-title="Latinos VIP (Exclusivos)",A3 Series HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="A3 Series HD (MX )" tvg-logo="https://img.tvcl.xyz/internacionales/a3.png" group-title="Latinos  (Exclusivos)",A3 Series HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302608
-#EXTINF:-1 tvg-id="" tvg-name="Aprende TV Primaria" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Aprende TV Primaria
+#EXTINF:-1 tvg-id="" tvg-name="Aprende TV Primaria" tvg-logo="" group-title="Latinos  (Exclusivos)",Aprende TV Primaria
 http://tvla.xyz:80/qlwqauno/Taliban01_/302610
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="AXN HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Latinos VIP (Exclusivos)",AXN HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="AXN HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Latinos  (Exclusivos)",AXN HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302611
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="A&E HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Latinos VIP (Exclusivos)",A&E HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="A&E HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Latinos  (Exclusivos)",A&E HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302612
-#EXTINF:-1 tvg-id="" tvg-name="Aym Sports HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/aym.png" group-title="Latinos VIP (Exclusivos)",Aym Sports HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Aym Sports HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/aym.png" group-title="Latinos  (Exclusivos)",Aym Sports HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302613
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Bandamax HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Bandamax HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Bandamax HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Bandamax HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302616
-#EXTINF:-1 tvg-id="" tvg-name="Bitme HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/infantiles/bitme.png" group-title="Latinos VIP (Exclusivos)",Bitme HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Bitme HD (MX )" tvg-logo="https://img.tvcl.xyz/infantiles/bitme.png" group-title="Latinos  (Exclusivos)",Bitme HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302617
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Cartoon Network HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Latinos VIP (Exclusivos)",Cartoon Network HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Cartoon Network HD (MX )" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Latinos  (Exclusivos)",Cartoon Network HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302621
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="CineMax HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinemax.png" group-title="Latinos VIP (Exclusivos)",CineMax HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="CineMax HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinemax.png" group-title="Latinos  (Exclusivos)",CineMax HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302623
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="CNN HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/noticias/cnn.png" group-title="Latinos VIP (Exclusivos)",CNN HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="CNN HD (MX )" tvg-logo="https://img.tvcl.xyz/noticias/cnn.png" group-title="Latinos  (Exclusivos)",CNN HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302624
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Kids HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/infantiles/dk.png" group-title="Latinos VIP (Exclusivos)",Discovery Kids HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Kids HD (MX )" tvg-logo="https://img.tvcl.xyz/infantiles/dk.png" group-title="Latinos  (Exclusivos)",Discovery Kids HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302625
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Theater HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/theater.png" group-title="Latinos VIP (Exclusivos)",Discovery Theater HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Theater HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/theater.png" group-title="Latinos  (Exclusivos)",Discovery Theater HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302626
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Channel HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Latinos VIP (Exclusivos)",Discovery Channel HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Channel HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Latinos  (Exclusivos)",Discovery Channel HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302627
-#EXTINF:-1 tvg-id="" tvg-name="Discovery SCI HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/discoverys.png" group-title="Latinos VIP (Exclusivos)",Discovery SCI HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Discovery SCI HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/discoverys.png" group-title="Latinos  (Exclusivos)",Discovery SCI HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302628
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/discoveryturbo.png" group-title="Latinos VIP (Exclusivos)",Discovery Turbo HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/discoveryturbo.png" group-title="Latinos  (Exclusivos)",Discovery Turbo HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302629
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery World HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/world.png" group-title="Latinos VIP (Exclusivos)",Discovery World HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery World HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/world.png" group-title="Latinos  (Exclusivos)",Discovery World HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302630
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Disney Channel HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="Latinos VIP (Exclusivos)",Disney Channel HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Disney Channel HD (MX )" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="Latinos  (Exclusivos)",Disney Channel HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302631
-#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="DisneyJR HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",DisneyJR HD (MX VIP)
+#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="DisneyJR HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",DisneyJR HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302632
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="DreamWorks HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",DreamWorks HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="DreamWorks HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",DreamWorks HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302633
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Distrito Comedia HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/dc.png" group-title="Latinos VIP (Exclusivos)",Distrito Comedia HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Distrito Comedia HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/dc.png" group-title="Latinos  (Exclusivos)",Distrito Comedia HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302634
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="De Pelicula HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/depelicula.png" group-title="Latinos VIP (Exclusivos)",De Pelicula HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="De Pelicula HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/depelicula.png" group-title="Latinos  (Exclusivos)",De Pelicula HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302635
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="E! Entertainment HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/e.png" group-title="Latinos VIP (Exclusivos)",E! Entertainment HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="E! Entertainment HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/e.png" group-title="Latinos  (Exclusivos)",E! Entertainment HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302636
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Plus HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Latinos VIP (Exclusivos)",ESPN Plus HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Plus HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Latinos  (Exclusivos)",ESPN Plus HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302637
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ESPN HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Latinos VIP (Exclusivos)",ESPN HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ESPN HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Latinos  (Exclusivos)",ESPN HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302638
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ESPN 2 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Latinos VIP (Exclusivos)",ESPN 2 HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ESPN 2 HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Latinos  (Exclusivos)",ESPN 2 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302639
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ESPN 3 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Latinos VIP (Exclusivos)",ESPN 3 HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ESPN 3 HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Latinos  (Exclusivos)",ESPN 3 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302640
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Latinos VIP (Exclusivos)",Las Estrellas HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Latinos  (Exclusivos)",Las Estrellas HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302641
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/foodnetwork.png" group-title="Latinos VIP (Exclusivos)",Food Network HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/foodnetwork.png" group-title="Latinos  (Exclusivos)",Food Network HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302644
-#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="Star Channel HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/fox.png" group-title="Latinos VIP (Exclusivos)",Star Channel HD (MX VIP)
+#EXTINF:-1 tvg-id="MX - FOX Sports" tvg-name="Star Channel HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/fox.png" group-title="Latinos  (Exclusivos)",Star Channel HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302645
-#EXTINF:-1 tvg-id="" tvg-name="Fox News HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/noticias/foxnews.png" group-title="Latinos VIP (Exclusivos)",Fox News HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Fox News HD (MX )" tvg-logo="https://img.tvcl.xyz/noticias/foxnews.png" group-title="Latinos  (Exclusivos)",Fox News HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302646
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Imagen TV HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/mexico/imagentelevision.png" group-title="Latinos VIP (Exclusivos)",Imagen TV HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Imagen TV HD (MX )" tvg-logo="https://img.tvcl.xyz/mexico/imagentelevision.png" group-title="Latinos  (Exclusivos)",Imagen TV HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302650
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Latinos VIP (Exclusivos)",Fox Sports HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Latinos  (Exclusivos)",Fox Sports HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302652
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Fox Sports 2 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Latinos VIP (Exclusivos)",Fox Sports 2 HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Fox Sports 2 HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Latinos  (Exclusivos)",Fox Sports 2 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302653
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="FX HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Latinos VIP (Exclusivos)",FX HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="FX HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Latinos  (Exclusivos)",FX HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302655
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Golden Edge HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/goldene.png" group-title="Latinos VIP (Exclusivos)",Golden Edge HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Golden Edge HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/goldene.png" group-title="Latinos  (Exclusivos)",Golden Edge HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302657
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Golden  HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Latinos VIP (Exclusivos)",Golden  HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Golden  HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Latinos  (Exclusivos)",Golden  HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302658
-#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/gplus.png" group-title="Latinos VIP (Exclusivos)",Golden Plus HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/gplus.png" group-title="Latinos  (Exclusivos)",Golden Plus HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302659
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Latinos VIP (Exclusivos)",Golden Premier HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Latinos  (Exclusivos)",Golden Premier HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302660
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Gourmet HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/elgourmet.png" group-title="Latinos VIP (Exclusivos)",Gourmet HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Gourmet HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/elgourmet.png" group-title="Latinos  (Exclusivos)",Gourmet HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302661
-#EXTINF:-1 tvg-id="" tvg-name="H2 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/h2.png" group-title="Latinos VIP (Exclusivos)",H2 HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/h2.png" group-title="Latinos  (Exclusivos)",H2 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302662
-#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbomundi.png" group-title="Latinos VIP (Exclusivos)",HBO Mundi HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD (MX )" tvg-logo="https://img.tvcl.xyz/cinepremium/hbomundi.png" group-title="Latinos  (Exclusivos)",HBO Mundi HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302663
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="HBO HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo.png" group-title="Latinos VIP (Exclusivos)",HBO HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="HBO HD (MX )" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo.png" group-title="Latinos  (Exclusivos)",HBO HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302664
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="HBO 2 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="Latinos VIP (Exclusivos)",HBO 2 HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="HBO 2 HD (MX )" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="Latinos  (Exclusivos)",HBO 2 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302665
-#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",HBO EXTREME HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",HBO EXTREME HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302666
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="HBO Family HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/brasil/hbofamily.png" group-title="Latinos VIP (Exclusivos)",HBO Family HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="HBO Family HD (MX )" tvg-logo="https://img.tvcl.xyz/brasil/hbofamily.png" group-title="Latinos  (Exclusivos)",HBO Family HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302667
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="HBO Plus HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/brasil/hboplus.png" group-title="Latinos VIP (Exclusivos)",HBO Plus HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="HBO Plus HD (MX )" tvg-logo="https://img.tvcl.xyz/brasil/hboplus.png" group-title="Latinos  (Exclusivos)",HBO Plus HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302668
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbopop.png" group-title="Latinos VIP (Exclusivos)",HBO POP HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD (MX )" tvg-logo="https://img.tvcl.xyz/cinepremium/hbopop.png" group-title="Latinos  (Exclusivos)",HBO POP HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302669
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbosignature.png" group-title="Latinos VIP (Exclusivos)",HBO Signature HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD (MX )" tvg-logo="https://img.tvcl.xyz/cinepremium/hbosignature.png" group-title="Latinos  (Exclusivos)",HBO Signature HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302670
-#EXTINF:-1 tvg-id="" tvg-name="Heraldo HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Heraldo HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Heraldo HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Heraldo HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302671
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://img.tvcl.xyz/usa/hgtv.png" group-title="Latinos VIP (Exclusivos)",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://img.tvcl.xyz/usa/hgtv.png" group-title="Latinos  (Exclusivos)",HGTV
 http://tvla.xyz:80/qlwqauno/Taliban01_/302672
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="History Channel HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/history.png" group-title="Latinos VIP (Exclusivos)",History Channel HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="History Channel HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/history.png" group-title="Latinos  (Exclusivos)",History Channel HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302673
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery ID HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/id.png" group-title="Latinos VIP (Exclusivos)",Discovery ID HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery ID HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/id.png" group-title="Latinos  (Exclusivos)",Discovery ID HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302674
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="iSat HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/isat.png" group-title="Latinos VIP (Exclusivos)",iSat HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="iSat HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/isat.png" group-title="Latinos  (Exclusivos)",iSat HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302676
-#EXTINF:-1 tvg-id="" tvg-name="La Octava HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",La Octava HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="La Octava HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",La Octava HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302677
-#EXTINF:-1 tvg-id="" tvg-name="LifeTime HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/lifetime.png" group-title="Latinos VIP (Exclusivos)",LifeTime HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="LifeTime HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/lifetime.png" group-title="Latinos  (Exclusivos)",LifeTime HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302678
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Cine Canal HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Latinos VIP (Exclusivos)",Cine Canal HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Cine Canal HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Latinos  (Exclusivos)",Cine Canal HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302689
-#EXTINF:-1 tvg-id="" tvg-name="Claro Sports HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/clarosports.png" group-title="Latinos VIP (Exclusivos)",Claro Sports HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/clarosports.png" group-title="Latinos  (Exclusivos)",Claro Sports HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302690
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="CNN Español HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/noticias/cnn.png" group-title="Latinos VIP (Exclusivos)",CNN Español HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="CNN Español HD (MX )" tvg-logo="https://img.tvcl.xyz/noticias/cnn.png" group-title="Latinos  (Exclusivos)",CNN Español HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302691
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Comedy Central HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Latinos VIP (Exclusivos)",Comedy Central HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Comedy Central HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Latinos  (Exclusivos)",Comedy Central HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302692
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery H&H HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/discoveryhh.png" group-title="Latinos VIP (Exclusivos)",Discovery H&H HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery H&H HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/discoveryhh.png" group-title="Latinos  (Exclusivos)",Discovery H&H HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302693
-#EXTINF:-1 tvg-id="" tvg-name="Futv FHD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Futv FHD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Futv FHD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Futv FHD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302697
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Fox Sport 3 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Latinos VIP (Exclusivos)",Fox Sport 3 HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Fox Sport 3 HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Latinos  (Exclusivos)",Fox Sport 3 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302698
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premier 2 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Latinos VIP (Exclusivos)",Golden Premier 2 HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier 2 HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Latinos  (Exclusivos)",Golden Premier 2 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302699
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Las Estrellas HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Latinos VIP (Exclusivos)",Las Estrellas HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Las Estrellas HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Latinos  (Exclusivos)",Las Estrellas HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302700
-#EXTINF:-1 tvg-id="MX - MTV" tvg-name="MTV HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/musica/mtv.png" group-title="Latinos VIP (Exclusivos)",MTV HD (MX VIP)
+#EXTINF:-1 tvg-id="MX - MTV" tvg-name="MTV HD (MX )" tvg-logo="https://img.tvcl.xyz/musica/mtv.png" group-title="Latinos  (Exclusivos)",MTV HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302703
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="National Geographic HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/natgeo.png" group-title="Latinos VIP (Exclusivos)",National Geographic HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="National Geographic HD (MX )" tvg-logo="https://img.tvcl.xyz/culturales/natgeo.png" group-title="Latinos  (Exclusivos)",National Geographic HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302706
-#EXTINF:-1 tvg-id="MX - Nick" tvg-name="Nick HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/brasil/nick.png" group-title="Latinos VIP (Exclusivos)",Nick HD (MX VIP)
+#EXTINF:-1 tvg-id="MX - Nick" tvg-name="Nick HD (MX )" tvg-logo="https://img.tvcl.xyz/brasil/nick.png" group-title="Latinos  (Exclusivos)",Nick HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302710
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="NickJr HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="Latinos VIP (Exclusivos)",NickJr HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="NickJr HD (MX )" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="Latinos  (Exclusivos)",NickJr HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302712
-#EXTINF:-1 tvg-id="" tvg-name="NickMusic HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",NickMusic HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="NickMusic HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",NickMusic HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302713
-#EXTINF:-1 tvg-id="" tvg-name="Outdoor HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/usa/outdoor.png" group-title="Latinos VIP (Exclusivos)",Outdoor HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor HD (MX )" tvg-logo="https://img.tvcl.xyz/usa/outdoor.png" group-title="Latinos  (Exclusivos)",Outdoor HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302715
-#EXTINF:-1 tvg-id="" tvg-name="Paramount HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Latinos VIP (Exclusivos)",Paramount HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Latinos  (Exclusivos)",Paramount HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302716
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Sony HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Latinos VIP (Exclusivos)",Sony HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Sony HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Latinos  (Exclusivos)",Sony HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302718
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Space HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Latinos VIP (Exclusivos)",Space HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Space HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Latinos  (Exclusivos)",Space HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302719
-#EXTINF:-1 tvg-id="" tvg-name="StarTV HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",StarTV HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="StarTV HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",StarTV HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302720
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Studio Universal HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/studiouniversal.png" group-title="Latinos VIP (Exclusivos)",Studio Universal HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Studio Universal HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/studiouniversal.png" group-title="Latinos  (Exclusivos)",Studio Universal HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302721
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="SyFy HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/syfy.png" group-title="Latinos VIP (Exclusivos)",SyFy HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="SyFy HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/syfy.png" group-title="Latinos  (Exclusivos)",SyFy HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302722
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="TBS HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/tbs.png" group-title="Latinos VIP (Exclusivos)",TBS HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="TBS HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/tbs.png" group-title="Latinos  (Exclusivos)",TBS HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302723
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="TCM HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tcm.png" group-title="Latinos VIP (Exclusivos)",TCM HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="TCM HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tcm.png" group-title="Latinos  (Exclusivos)",TCM HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302724
-#EXTINF:-1 tvg-id="" tvg-name="Telefe HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/argentina/telefe.png" group-title="Latinos VIP (Exclusivos)",Telefe HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Telefe HD (MX )" tvg-logo="https://img.tvcl.xyz/argentina/telefe.png" group-title="Latinos  (Exclusivos)",Telefe HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302726
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tele Hit HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Tele Hit HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tele Hit HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Tele Hit HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302727
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Telemundo Internacional HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/usa/telemundo.png" group-title="Latinos VIP (Exclusivos)",Telemundo Internacional HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Telemundo Internacional HD (MX )" tvg-logo="https://img.tvcl.xyz/usa/telemundo.png" group-title="Latinos  (Exclusivos)",Telemundo Internacional HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302728
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/usa/tlc.png" group-title="Latinos VIP (Exclusivos)",TLC HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD (MX )" tvg-logo="https://img.tvcl.xyz/usa/tlc.png" group-title="Latinos  (Exclusivos)",TLC HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302730
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Univision TLNovelas HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/internacionales/univision.png" group-title="Latinos VIP (Exclusivos)",Univision TLNovelas HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Univision TLNovelas HD (MX )" tvg-logo="https://img.tvcl.xyz/internacionales/univision.png" group-title="Latinos  (Exclusivos)",Univision TLNovelas HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302732
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="TNT HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Latinos VIP (Exclusivos)",TNT HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="TNT HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Latinos  (Exclusivos)",TNT HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302733
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Latinos VIP (Exclusivos)",TNT Series HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Latinos  (Exclusivos)",TNT Series HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302734
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Toon Cast HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Toon Cast HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Toon Cast HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Toon Cast HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302735
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tru TV HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="Latinos VIP (Exclusivos)",Tru TV HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tru TV HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/trutv.png" group-title="Latinos  (Exclusivos)",Tru TV HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302736
-#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/tvc.png" group-title="Latinos VIP (Exclusivos)",TVC Deportes HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes HD (MX )" tvg-logo="https://img.tvcl.xyz/deportes/tvc.png" group-title="Latinos  (Exclusivos)",TVC Deportes HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302737
-#EXTINF:-1 tvg-id="" tvg-name="Unicable HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/unicable.png" group-title="Latinos VIP (Exclusivos)",Unicable HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Unicable HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/unicable.png" group-title="Latinos  (Exclusivos)",Unicable HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302738
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Universal Channel HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/universal.png" group-title="Latinos VIP (Exclusivos)",Universal Channel HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Universal Channel HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/universal.png" group-title="Latinos  (Exclusivos)",Universal Channel HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302739
-#EXTINF:-1 tvg-id="" tvg-name="universal Cinema HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",universal Cinema HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="universal Cinema HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",universal Cinema HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302740
-#EXTINF:-1 tvg-id="" tvg-name="Universal Crime HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Universal Crime HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Universal Crime HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302741
-#EXTINF:-1 tvg-id="" tvg-name="Universal Premier HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Universal Premier HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premier HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Universal Premier HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302742
-#EXTINF:-1 tvg-id="" tvg-name="Universal Reality HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Universal Reality HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Universal Reality HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302743
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Warner Channel HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Latinos VIP (Exclusivos)",Warner Channel HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Warner Channel HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Latinos  (Exclusivos)",Warner Channel HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302746
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Las Estrellas -1HRs HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Latinos VIP (Exclusivos)",Las Estrellas -1HRs HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Las Estrellas -1HRs HD (MX )" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Latinos  (Exclusivos)",Las Estrellas -1HRs HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/304504
-#EXTINF:-1 tvg-id="" tvg-name="Affiz HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Affiz HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Affiz HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Affiz HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/304505
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",DreamWorks HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",DreamWorks HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/304507
-#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Universal Comedy HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Universal Comedy HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/304508
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Sony Movies HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Latinos VIP (Exclusivos)",Sony Movies HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Sony Movies HD (MX )" tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Latinos  (Exclusivos)",Sony Movies HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/304509
-#EXTINF:-1 tvg-id="" tvg-name="TUDN HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",TUDN HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="TUDN HD (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",TUDN HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/304510
-#EXTINF:-1 tvg-id="" tvg-name="Hi Sports (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Hi Sports (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Hi Sports (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Hi Sports (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/313025
-#EXTINF:-1 tvg-id="" tvg-name="Meganoticias (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Meganoticias (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Meganoticias (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",Meganoticias (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/313026
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/nfl.png" group-title="Latinos VIP (Exclusivos)",NFL Network (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (MX )" tvg-logo="https://img.tvcl.xyz/deportes/nfl.png" group-title="Latinos  (Exclusivos)",NFL Network (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/313027
-#EXTINF:-1 tvg-id="" tvg-name="TeenNick (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",TeenNick (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="TeenNick (MX )" tvg-logo="" group-title="Latinos  (Exclusivos)",TeenNick (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/313028
 #EXTINF:-1 tvg-id="CL - A&E Mundo" tvg-name="A&E  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/aye.png" group-title="Pelicula y Series (Exclusivos)",A&E  FHD (CL*)
 http://tvla.xyz:80/qlwqauno/Taliban01_/313032
@@ -607,103 +607,89 @@ http://tvla.xyz:80/qlwqauno/Taliban01_/312960
 http://tvla.xyz:80/qlwqauno/Taliban01_/312962
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD (LAT)*" tvg-logo="https://shashe.dianshiwang.vip:27000/images/9c48a0f6ef6b53dc0203a020525e823d.jpg" group-title="Latinos Dual Audio (E)",MTV HD (LAT)*
 http://tvla.xyz:80/qlwqauno/Taliban01_/312963
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Accion Classics FHD" tvg-logo="https://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="Canales 24/7",24/7 VIP Cinema Accion Classics FHD
-http://tvla.xyz:80/qlwqauno/Taliban01_/50572
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Horror Classics HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Horror Classics HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/50574
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Comedia FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Comedia FHD
-http://tvla.xyz:80/qlwqauno/Taliban01_/50575
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema DC Comics FHD" tvg-logo="https://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="Canales 24/7",24/7 VIP Cinema DC Comics FHD
-http://tvla.xyz:80/qlwqauno/Taliban01_/50576
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema DC Universe HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema DC Universe HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema DC Universe HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cinema DC Universe HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50577
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Disney Family FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Family FHD
-http://tvla.xyz:80/qlwqauno/Taliban01_/50578
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Disney Pixar FHD" tvg-logo="https://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Pixar FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema Disney Pixar FHD" tvg-logo="https://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="Canales 24/7",24/7  Cinema Disney Pixar FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50579
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Dreamworks FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Dreamworks FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema Dreamworks FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cinema Dreamworks FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50580
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Familia FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Familia FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema Familia FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cinema Familia FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50581
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Happy Madison FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Happy Madison FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema Happy Madison FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cinema Happy Madison FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50582
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Horror FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Horror FHD
-http://tvla.xyz:80/qlwqauno/Taliban01_/50583
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Lego Movies FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Lego Movies FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema Lego Movies FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cinema Lego Movies FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50584
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Marvel Animated FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Marvel Animated FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema Marvel Animated FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cinema Marvel Animated FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50585
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Marvel Studios FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Marvel Studios FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema Marvel Studios FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cinema Marvel Studios FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50586
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cocina Abierta FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cocina Abierta FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cocina Abierta FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cocina Abierta FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50588
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cuentos de la Cripta SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cuentos de la Cripta SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cuentos de la Cripta SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cuentos de la Cripta SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50589
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Death Note HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Death Note HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Death Note HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Death Note HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50592
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Detective Conan SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Detective Conan SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Detective Conan SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Detective Conan SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50593
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Disney Live Action FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Disney Live Action FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Disney Live Action FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Disney Live Action FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50595
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Disney Princess FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Disney Princess FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Disney Princess FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Disney Princess FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50596
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball Z Movies FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Z Movies FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Dragon Ball Z Movies FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Dragon Ball Z Movies FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50597
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP El Laboratorio de Dexter SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Laboratorio de Dexter SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  El Laboratorio de Dexter SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  El Laboratorio de Dexter SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50598
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Futurama HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Futurama HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Futurama HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Futurama HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50599
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Happy tree friends FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Happy tree friends FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Happy tree friends FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Happy tree friends FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50601
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Jimmy Neutron SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Jimmy Neutron SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Jimmy Neutron SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Jimmy Neutron SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50604
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Kung Fu Panda HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Kung Fu Panda HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Kung Fu Panda HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Kung Fu Panda HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50606
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP La Casa de Mickey Mouse HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP La Casa de Mickey Mouse HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  La Casa de Mickey Mouse HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  La Casa de Mickey Mouse HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50607
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP La Tropa Goofy HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP La Tropa Goofy HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  La Tropa Goofy HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  La Tropa Goofy HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50610
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Lilo & Stitch SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lilo & Stitch SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Lilo & Stitch SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Lilo & Stitch SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50611
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Lo Mejor de Donald SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lo Mejor de Donald SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Lo Mejor de Donald SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Lo Mejor de Donald SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50612
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Los Locos Adams" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Locos Adams
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Locos Adams" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Los Locos Adams
 http://tvla.xyz:80/qlwqauno/Taliban01_/50615
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Los Simpsons FHD" tvg-logo="" group-title="Canales 24/7",24/7 VIP Los Simpsons FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpsons FHD" tvg-logo="" group-title="Canales 24/7",24/7  Los Simpsons FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50616
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Los Simpsons Horror HD" tvg-logo="" group-title="Canales 24/7",24/7 VIP Los Simpsons Horror HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpsons Horror HD" tvg-logo="" group-title="Canales 24/7",24/7  Los Simpsons Horror HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50617
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Los Simpsons Retro SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Simpsons Retro SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpsons Retro SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Los Simpsons Retro SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50618
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Masha y el Oso HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Masha y el Oso HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Masha y el Oso HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Masha y el Oso HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50620
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Moviecenter Kids FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Moviecenter Kids FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Moviecenter Kids FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Moviecenter Kids FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50622
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Moviecenter Premium FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Moviecenter Premium FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Moviecenter Premium FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Moviecenter Premium FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50623
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Moviecenter Premium Este FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Moviecenter Premium Este FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Moviecenter Premium Este FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Moviecenter Premium Este FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50624
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Moviecenter Premium Oeste FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Moviecenter Premium Oeste FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Moviecenter Premium Oeste FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Moviecenter Premium Oeste FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50625
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Paw Patrol FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Paw Patrol FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Paw Patrol FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Paw Patrol FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50626
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Peppa Pig FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Peppa Pig FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Peppa Pig FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Peppa Pig FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50627
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Pinguinos de Madagascar HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Pinguinos de Madagascar HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Pinguinos de Madagascar HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Pinguinos de Madagascar HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50628
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Pocoyo FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Pocoyo FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Pocoyo FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Pocoyo FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50630
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Rick y Morty FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Rick y Morty FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Rick y Morty FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Rick y Morty FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50631
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP South Park FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP South Park FHD
-http://tvla.xyz:80/qlwqauno/Taliban01_/50632
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Talking Tom FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Talking Tom FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Talking Tom FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Talking Tom FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50633
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP 31 Minutos HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP 31 Minutos HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  31 Minutos HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  31 Minutos HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50635
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Sailor Moon SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Sailor Moon SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Sailor Moon SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Sailor Moon SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50636
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Tiny Toons SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Tiny Toons SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Tiny Toons SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Tiny Toons SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/50642
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pantera Rosa OLD SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pantera Rosa OLD SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/34443
@@ -711,22 +697,12 @@ http://tvla.xyz:80/qlwqauno/Taliban01_/34443
 http://tvla.xyz:80/qlwqauno/Taliban01_/34474
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball Z
 http://tvla.xyz:80/qlwqauno/Taliban01_/35448
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Peppa Pig HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/35480
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Tom y Jerry SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/35484
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hi-Man SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hi-Man SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/35486
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercat SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Thundercat SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/35490
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek " tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Star Trek 
-http://tvla.xyz:80/qlwqauno/Taliban01_/35491
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Sony Y Su Banda SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Sony Y Su Banda SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/35492
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby Doo: Dónde estás? SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Scooby Doo: Dónde estás? SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/35493
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Robotech SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/35494
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Pequeña LuLú SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Pequeña LuLú SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/35501
 #EXTINF:-1 tvg-id="" tvg-name="24/7 South Park HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 South Park HD
@@ -751,20 +727,10 @@ http://tvla.xyz:80/qlwqauno/Taliban01_/35524
 http://tvla.xyz:80/qlwqauno/Taliban01_/35525
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Show De Looney Tunes HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Show De Looney Tunes HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/35526
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon ball Super HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon ball Super HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/35528
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon ball  Gt HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon ball  Gt HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/35529
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimo Adventure SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Digimo Adventure SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/35530
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Ben 10 HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/35531
 #EXTINF:-1 tvg-id="" tvg-name="24/7  Scooby Doo HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Scooby Doo HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/35533
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma 1/2 HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Ranma 1/2 HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/35534
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Halcones Galáctico SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Halcones Galáctico SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/35535
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado Inmigracion SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado Inmigracion SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49159
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado La Familia 1 SD
@@ -777,8 +743,6 @@ http://tvla.xyz:80/qlwqauno/Taliban01_/49163
 http://tvla.xyz:80/qlwqauno/Taliban01_/49164
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Mayday Catastrofes Aereas SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mayday Catastrofes Aereas SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49166
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Mundo De Beakman Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Mundo De Beakman Temp 1 SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/49168
 #EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Los Angeles SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 NCIS Los Angeles SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49181
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Magnificos Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Magnificos Temp 1 SD
@@ -803,90 +767,46 @@ http://tvla.xyz:80/qlwqauno/Taliban01_/49208
 http://tvla.xyz:80/qlwqauno/Taliban01_/49209
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 4 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Vecinos Temp 4 SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49210
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Paradise PD SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Paradise PD SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/49214
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Brickleberry SD (+15)" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Brickleberry SD (+15)
-http://tvla.xyz:80/qlwqauno/Taliban01_/49217
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de Mickey Mouse SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Casa de Mickey Mouse SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49233
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Doctora Juguete SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Doctora Juguete SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49234
-#EXTINF:-1 tvg-id="" tvg-name="24/7 She-Ra La Princesa del Poder SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 She-Ra La Princesa del Poder SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/49239
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Sailor Moon SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/49241
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Birdman SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Birdman SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/49246
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Capitan Cabernicola SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Capitan Cabernicola SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/49256
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Jhonny Bravo SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Jhonny Bravo SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49257
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Vaca y el Pollito SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Vaca y el Pollito SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49258
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Años Maravillosos SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Años Maravillosos SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/49259
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Oso Yogui SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Oso Yogui SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49262
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Candy Candy SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Candy Candy SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/49264
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de los Dibujos SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Casa de los Dibujos SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49274
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Gallo Claudio SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Gallo Claudio SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/49275
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Marvel Studios Este FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Marvel Studios Este FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema Marvel Studios Este FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cinema Marvel Studios Este FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58067
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Marvel Studios Oeste FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Marvel Studios Oeste FHD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Cinema Marvel Studios Oeste FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Cinema Marvel Studios Oeste FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58068
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Anime [test] FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Anime [test] FHD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58069
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="24/7 VIP Retro Simpsons SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Retro Simpsons SD
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="24/7  Retro Simpsons SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Retro Simpsons SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58071
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP 31 Minutos SD " tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP 31 Minutos SD 
+#EXTINF:-1 tvg-id="" tvg-name="24/7  31 Minutos SD " tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  31 Minutos SD 
 http://tvla.xyz:80/qlwqauno/Taliban01_/58073
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Bob Esponja SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Bob Esponja SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Bob Esponja SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Bob Esponja SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58076
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58082
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball 2 HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball 2 HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58083
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball GT SD " tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball GT SD 
-http://tvla.xyz:80/qlwqauno/Taliban01_/58084
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP El Pajaro Loco SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Pajaro Loco SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  El Pajaro Loco SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  El Pajaro Loco SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58086
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Gallo claudio SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Gallo claudio SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Gallo claudio SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Gallo claudio SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58088
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Amazon Kids (Test) FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Amazon Kids (Test) FHD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58090
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Lo Mejor de Pluto SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lo Mejor de Pluto SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Lo Mejor de Pluto SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Lo Mejor de Pluto SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58101
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58105
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball Super 2 Saga Universo 6 y Goku Black HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58106
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball Super 3 Saga de la Supervivencia Universal HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Super 3 Saga de la Supervivencia Universal HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58107
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Supercampeones SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Supercampeones SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58109
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP El Chavo HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Chavo HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  El Chavo HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  El Chavo HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58120
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Chespirito TV" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Chespirito TV
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Chespirito TV" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Chespirito TV
 http://tvla.xyz:80/qlwqauno/Taliban01_/58121
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Mr.Bean SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Mr.Bean SD
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Mr.Bean SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7  Mr.Bean SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58123
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cocina Real TV FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cocina Real TV FHD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58127
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Hagalo Usted Mismo TV" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Hagalo Usted Mismo TV
-http://tvla.xyz:80/qlwqauno/Taliban01_/58131
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Cantinflas HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Cantinflas HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58264
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58265
 #EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="24/7 Coraje SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Coraje SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58267
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball GT HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58271
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball Super HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58273
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo Del 8 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Chavo Del 8 SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58278
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe De Rap SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Principe De Rap SD
@@ -895,10 +815,6 @@ http://tvla.xyz:80/qlwqauno/Taliban01_/58284
 http://tvla.xyz:80/qlwqauno/Taliban01_/58285
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Friends HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Friends HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58291
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Tom Sawyer SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Las aventuras de Tom Sawyer SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58298
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Caballeros del Zodiaco SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58301
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los pequeños Tom y Jerry SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los pequeños Tom y Jerry SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58310
 #EXTINF:-1 tvg-id="" tvg-name="24/7 11 Los Simpsons HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Los Simpsons HD
@@ -907,28 +823,16 @@ http://tvla.xyz:80/qlwqauno/Taliban01_/58314
 http://tvla.xyz:80/qlwqauno/Taliban01_/58317
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pajaro Loco HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pajaro Loco HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58322
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Timon y Pumba HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Timon y Pumba HD
+#EXTINF:-1 tvg-id="" tvg-name="24/7 timon y Pumba HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Timon y Pumba HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58230
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 The Big Bang Theory FHD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58228
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Supercampeones SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58223
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes  1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Looney Tunes  1 SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58207
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Guerra De Bestias Transformers SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Guerra De Bestias Transformers SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58188
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Espíritu de lucha SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Espíritu de lucha SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58182
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Scooby Doo y ScrappyDoo SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El show de Scooby Doo y ScrappyDoo SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58179
 #EXTINF:-1 tvg-id="247Retro.us" tvg-name="24/7 Dr House HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dr House HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58177
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Capitan Futuro SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Capitan Futuro SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58167
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Capitán Centella SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Capitán Centella SD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58168
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Transformers Prime HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Transformers Prime HD
-http://tvla.xyz:80/qlwqauno/Taliban01_/58233
 #EXTINF:-1 tvg-id="" tvg-name="24/7 11 SuperGirl HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 SuperGirl HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/58224
 #EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 01" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png" group-title="PPV Cine",PPV: Cinema 01
@@ -1283,7 +1187,7 @@ http://tvla.xyz:80/qlwqauno/Taliban01_/34744
 http://tvla.xyz:80/qlwqauno/Taliban01_/34745
 #EXTINF:-1 tvg-id="AR - DeporTV" tvg-name="DeporTV FHD (ARG)" tvg-logo="" group-title="Deportes",DeporTV FHD (ARG)
 http://tvla.xyz:80/qlwqauno/Taliban01_/123873
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports Premium (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium (MX )" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports Premium (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/304554
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra SD (MX)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN Extra SD (MX)
 http://tvla.xyz:80/qlwqauno/Taliban01_/312828
@@ -2829,35 +2733,35 @@ http://tvla.xyz:80/qlwqauno/Taliban01_/43625
 http://tvla.xyz:80/qlwqauno/Taliban01_/43626
 #EXTINF:-1 tvg-id="Mexiquense.mx" tvg-name="Mexiquice SD (MX)" tvg-logo="" group-title="Mexico",Mexiquice SD (MX)
 http://tvla.xyz:80/qlwqauno/Taliban01_/43631
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Azteca 7  2 HD (MX VIP)" tvg-logo="" group-title="Mexico",Azteca 7  2 HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Azteca 7  2 HD (MX )" tvg-logo="" group-title="Mexico",Azteca 7  2 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302683
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Azteca Corazon HD (MX VIP)" tvg-logo="" group-title="Mexico",Azteca Corazon HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Azteca Corazon HD (MX )" tvg-logo="" group-title="Mexico",Azteca Corazon HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302681
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD (MX VIP)" tvg-logo="" group-title="Mexico",Azteca Uno HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD (MX )" tvg-logo="" group-title="Mexico",Azteca Uno HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302682
-#EXTINF:-1 tvg-id="" tvg-name="Aztecamenos 1 HD (MX VIP)" tvg-logo="" group-title="Mexico",Aztecamenos 1 HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Aztecamenos 1 HD (MX )" tvg-logo="" group-title="Mexico",Aztecamenos 1 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302685
-#EXTINF:-1 tvg-id="" tvg-name="AZ1 HD (MX VIP)" tvg-logo="" group-title="Mexico",AZ1 HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="AZ1 HD (MX )" tvg-logo="" group-title="Mexico",AZ1 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302614
-#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema HD (MX VIP)" tvg-logo="" group-title="Mexico",AZ Cinema HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema HD (MX )" tvg-logo="" group-title="Mexico",AZ Cinema HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302615
-#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo FHD (MX VIP)" tvg-logo="" group-title="Mexico",AZ Mundo FHD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo FHD (MX )" tvg-logo="" group-title="Mexico",AZ Mundo FHD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302680
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Canal Once HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/mexico/canalonce.png" group-title="Mexico",Canal Once HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Canal Once HD (MX )" tvg-logo="https://img.tvcl.xyz/mexico/canalonce.png" group-title="Mexico",Canal Once HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/304506
-#EXTINF:-1 tvg-id="" tvg-name="MTY Canal 8 Televisa HD (MX VIP)" tvg-logo="" group-title="Mexico",MTY Canal 8 Televisa HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="MTY Canal 8 Televisa HD (MX )" tvg-logo="" group-title="Mexico",MTY Canal 8 Televisa HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302688
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="MTY Canal 4 Televisa HD (MX VIP)" tvg-logo="" group-title="Mexico",MTY Canal 4 Televisa HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="MTY Canal 4 Televisa HD (MX )" tvg-logo="" group-title="Mexico",MTY Canal 4 Televisa HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302687
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ForoTV HD (MX VIP)" tvg-logo="" group-title="Mexico",ForoTV HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ForoTV HD (MX )" tvg-logo="" group-title="Mexico",ForoTV HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302620
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Canal 5 HD (MX VIP)" tvg-logo="" group-title="Mexico",Canal 5 HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Canal 5 HD (MX )" tvg-logo="" group-title="Mexico",Canal 5 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302619
-#EXTINF:-1 tvg-id="" tvg-name="Imagen HD (MX VIP)" tvg-logo="" group-title="Mexico",Imagen HD (MX VIP)
+#EXTINF:-1 tvg-id="" tvg-name="Imagen HD (MX )" tvg-logo="" group-title="Mexico",Imagen HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302675
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ADN40 HD (MX VIP)" tvg-logo="" group-title="Mexico",ADN40 HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ADN40 HD (MX )" tvg-logo="" group-title="Mexico",ADN40 HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302602
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Milenio TV HD (MX VIP)" tvg-logo="" group-title="Mexico",Milenio TV HD (MX VIP)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Milenio TV HD (MX )" tvg-logo="" group-title="Mexico",Milenio TV HD (MX )
 http://tvla.xyz:80/qlwqauno/Taliban01_/302702
 #EXTINF:-1 tvg-id="" tvg-name="ES: La 1 SD" tvg-logo="" group-title="España",ES: La 1 SD
 http://tvla.xyz:80/qlwqauno/Taliban01_/303667
@@ -3403,3 +3307,7 @@ http://tvla.xyz:80/qlwqauno/Taliban01_/313198
 http://tvla.xyz:80/qlwqauno/Taliban01_/313199
 #EXTINF:-1 tvg-id="" tvg-name="ES: MUNDOTORO TV HD" tvg-logo="" group-title="España",ES: MUNDOTORO TV HD
 http://tvla.xyz:80/qlwqauno/Taliban01_/313200
+
+
+
+
